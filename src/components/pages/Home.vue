@@ -1,5 +1,7 @@
 <template>
-  <div>123</div>
+  <div class="a">
+
+  </div>
 </template>
 
 <script>
@@ -14,4 +16,5 @@ export default {
 </script>
 
 <style scoped>
+
 </style>
